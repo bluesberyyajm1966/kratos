@@ -39,11 +39,11 @@
 
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
 | :--- | :---: | :---: | :--- |
-| **LDO Voron 300mm Cast Aluminum Build Plate Kit** *(305x305mm Cast Plate, 120V Keenovo Heater & Magnet)* | 1 | **$169.95** | [DigMach Product Link](https://www.digmach.com/products/voron-2-4-build-plate-kit) |
-| **305x305mm Dual-Sided PEI Spring Steel Flex Plate** | 1 | **$26.0** | [Phaetus Product Link](https://www.phaetus.com/products/conweb-build-plate) |
+| **LDO Voron 300mm Cast Aluminum Build Plate Kit** *(305x305mm Cast Plate, 120V Keenovo Heater & Magnet)* | 1 | **$170.00** | [DigMach Product Link](https://www.digmach.com/products/voron-2-4-build-plate-kit) |
+| **305x305mm Dual-Sided PEI Spring Steel Flex Plate** | 1 | **$26.00** | [Phaetus Product Link](https://www.phaetus.com/products/conweb-build-plate) |
 | **Omron G3NA-210B 10A / 240VAC Solid State Relay (SSR)** | 1 | **$39.00** | [KB-3D Product Link](https://kb-3d.com/store/omron/171-omron-solid-state-relay-g3na-210b-utu-ssr-4536854807954.html) |
 | **125°C Ceramic Bed Thermal Fuse (15A 250V Safety Cutoff)** | 1 | **$2.00** | [KB-3D Product Link](https://kb-3d.com/store/heated-bed-electronics/206-thermal-fuse-125c-trip-temperature-ceramic-1634486072757.html) |
-| **SUBTOTAL HEATED BED:** | | **$236.33** | |
+| **SUBTOTAL HEATED BED:** | | **$237.00** | |
 
 ---
 
@@ -53,9 +53,9 @@
 | :--- | :---: | :---: | :--- |
 | **BigTreeTech Octopus Pro v1.1 + TMC Drivers** | 1 | **$0.00** | Already Owned |
 | **NEMA 17 Stepper Motors (AWD CoreXY + Triple Z)** | 6 | **$0.00** | Already Owned |
-| **BIGTREETECH CB1 V2.2 + Pi4B Adapter Board Kit** | 1 | **$40** | [Amazon Link](https://www.amazon.com/dp/B0BLN8VCVN) *(Klipper Host Controller)* |
+| **BIGTREETECH CB1 V2.2 + Pi4B Adapter Board Kit** | 1 | **$40.00** | [Amazon Link](https://www.amazon.com/dp/B0BLN8VCVN) *(Klipper Host Controller)* |
 | **Mean Well LRS-350-24 Power Supply (24V 14.6A)** | 1 | **$32.00** | [Amazon Link](https://www.amazon.com/dp/B09K5MS2FB) |
-| **SUBTOTAL POWER & HOST:** | | **$60.99** | |
+| **SUBTOTAL POWER & HOST:** | | **$72.00** | |
 
 ---
 
@@ -78,9 +78,11 @@
 | :--- | :---: |
 | **1. Frame, Bed Structure & Hardware** | **$53.00** |
 | **2. Motion System & Kinematics** | **$114.00** |
-| **3. Heated Bed System** | **$236.33** |
-| **4. Power & Host Controller** | **$60.99** |
+| **3. Heated Bed System** | **$237.00** |
+| **4. Power & Host Controller** | **$72.00** |
 | **5. Toolhead Assembly** | **$81.00** |
-| **TOTAL REMAINING HARDWARE NEEDED:** | **$545.32** |
+| **TOTAL REMAINING HARDWARE NEEDED:** | **$557.00** |
 | **REQUESTED HACK CLUB GRANT AMOUNT:** | **$350.00** *(Maximum Cap)* |
-| **PERSONAL CO-FUNDING CONTRIBUTION:** | **$195.32** *(Out of Pocket)* |
+| **PERSONAL CO-FUNDING CONTRIBUTION:** | **$207.00** *(Out of Pocket)* |
+
+> **Note on Existing Hardware Savings:** The total project budget reflects a massive cost savings of **~$350+** by utilizing self-provided inventory including a BigTreeTech Octopus Pro v1.1 mainboard, TMC drivers, 6x NEMA 17 motors, 3x MGN12H linear rails, full timing belt/pulley kits, fastener assortments, heat-set inserts, 8x frame extrusions, and JST wiring kits.
