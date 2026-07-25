@@ -1,7 +1,7 @@
 # [Kratos] - Personal Log
 
 ## Section 1: My History with 3D Printers
-[Write your background here in your own words...]
+My first 3d printer similar to many in the 3d printing community was an ender 3. Being now an 8 year old printer, it had many issues, from the very primitive POM wheels causing a multitude of problems, and the tedious manual bed leveling. These struggles led me down a rabbit hole of upgrading and modifying my printers, I first added a second lead screw to convert it to dual Z axis, to reduce z wobble and to handle the weight of a direct drive extruder mod. And I even ended up adding new bigtreetech board. For the past 4 years I have modded upgraded and fixed any printer I could get my hands on anywhere from an ender 3 v2 neo, to a ankermake m5c, and even recently a bambu lab a1 mini. Eventually I had had enough with the low build/print quality, or the closed off an proprietary hardware and software, on commercial machines, so I decided to build Kratos, compiling all the skills I have learned over the past several years
 
 ## Section 2: Kinematic & Architectural Choices
 * **CoreXY vs. Bed Slinger:** [Write why bed-slingers weren't enough...]
