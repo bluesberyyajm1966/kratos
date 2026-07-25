@@ -28,7 +28,7 @@
 | **T8 Lead Screws with Anti-Backlash Nuts (300mm, 2-Pack)** | 2 Packs | **$30.00** | [Amazon Link](https://www.amazon.com/dp/B0GZZ4R4X5) *(3 used for Triple-Z, 1 spare)* |
 | **Flexible Shaft Couplers 5mm to 8mm (2-Pack)** | 2 Packs | **$24.00** | [Amazon Link](https://www.amazon.com/dp/B0GS2YKMP3) *(3 used for Triple-Z, 1 spare)* |
 | **PATIKIL M4 x 10mm Stainless Steel Ball Nuts (3-Pack)** | 1 Pack | **$7.00** | [Amazon Link](https://www.amazon.com/dp/B0FBS22YBM) *(Used for Kinematic Bed Mounts)* |
-| **N52 Countersunk Ring Magnets 12x3mm (40-Pack)** | 1 Pack | **$23.39** | [Amazon Link](https://www.amazon.com/dp/B0GF1X7XL2) *(Kinematic Mounts / Toolhead Docking)* |
+| **N52 Countersunk Ring Magnets 12x3mm (40-Pack)** | 1 Pack | **$23.00** | [Amazon Link](https://www.amazon.com/dp/B0GF1X7XL2) *(Kinematic Mounts / Toolhead Docking)* |
 | **GE5C Spherical Bearings 5x14x6mm (4-Pack)** | 1 Pack | **$9.00** | [Amazon Link](https://www.amazon.com/dp/B0CRNQYDFN) *(3 used for Kinematic Bed, 1 spare)* |
 
 
@@ -53,15 +53,16 @@
 
 ---
 
-### 5. Toolhead, Cooling & Wiring
+### 5. Primary Toolhead Assembly (Voron Stealthburner Architecture)
 
-| Item Description | Qty Needed | Grant Cost | Status / Source Link |
+| Item Description | Qty Needed | Grant Cost | Direct Product Link |
 | :--- | :---: | :---: | :--- |
-| **Hotend & Direct Drive Extruder Assembly** | 1 | **$45.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **Cooling Fan Kit (5015 Blowers & MCU Bay Fan)** | 1 Set | **$15.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **JST-XH Connector Kit & Silicone Wiring Harness** | 1 Kit | **$0.00** | Already Owned |
-
----
+| **Bambu Lab X1C Complete Hotend Assembly (0.4mm Hardened Steel / 24V)** | 1 | **$35.00** | [3DJake Product Link](https://www.3djake.com/bambu-lab/complete-hotend-x1c) |
+| **Voron Clockwork 2 (CW2) BMG Drive Gear Kit (Bondtech IDGA)** | 1 | **$18.00** | [Filastruder Product Link](https://www.filastruder.com/products/bmg-integrated-drive-gear-assembly-idga-retrofit-kit-sku-15169) |
+| **LDO NEMA 14 36mm Pancake Stepper Motor (LDO-36STH20-1004AHG)** | 1 | **$21.00** | [West3D Product Link](https://west3d.com/products/ldo-nema14-36mm-pancake-stepper-motor-ldo-36sth20-1004ahg) |
+| **5015 Blower Fan (24V Dual Ball Bearing)** | 1 | **$7.00** | [Etsy Product Link](https://www.etsy.com/listing/4419541090/24v-5015-blower-fan-2-pin-jst-connector) |
+| **Stealthburner Structural Bodies & Faceplates (Printed in ASA)** | 1 Set | **$0.00** | Self-Provided *(Printed using existing 3D printer)* |
+| **SUBTOTAL TOOLHEAD:** | | **$81.03** | |
 
 ### Budget Summary
 
