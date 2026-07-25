@@ -14,12 +14,10 @@ My first 3d printer similar to many in the 3d printing community was an ender 3.
 ## Section 3 XY gantry
 I am going to talk about my dfirst ideas for the frame in the archive and then why i decided to scrap that and do a reset and restart my corner mounts and all the other big mounting decisions i made
 * **Motor Placement:** My first instinct regarding the motor placement was to place it on the inside of the of the extrusions, this can be seen in side my archive Kratos build. This was my first big mistake, as this made me spent many weeks frustrated on how to do the belt routing. But I was way overcomplicating it, because having the motor on the inside of the corner made the printer not be aligned with the linear rails which is crucial for belt tensioning, as if it isnt perfect straight when the y axis moves it would change the tension of the belt. After many hours spent trying to figure out the belt routing I went back to look at other coreXY designs to see waht they did, and to get inspiration from it. After just minutes of googling I realized I had to scrap everything I had just spent so much time fixing. I had built my corner pieces around the motor on the inside of the build and after looking at other printers such as the voron trident, I saw they placed motor along side the outer edges of the frame allowing it to be perfectly aligned with the linear rail and with the next corner it had to go to. This meant simplyifying my design that at one point had four idlers at each corner down to only two at two of the corners.
-  <p align="center">
-  <img src="pictures/Old%20corner%20mount.jpg" alt="Original Internal Motor Design" width="190px" style="margin-right: 10px;" />
-  <img src="pictures/New%20corner%20mount.jpg" alt="Updated Outer Motor Design" width="190px" />
-  <br />
-  <em>Figure 3.2: Comparison between the original internal motor design with complex belt routing (left) and the updated outer-mount design (right).</em>
-</p>
+  ![Original Internal Motor Design](pictures/Old%20corner%20mount.jpg)
+![Updated Outer Motor Design](pictures/New%20corner%20mount.jpg)
+
+*Figure 3.2: Comparison between the original internal motor design with complex belt routing (top) and the updated outer-mount design (bottom).*
 ## Section 4 Kinematic bed/Triple Z axis system
 
 ## Section 5 Software Klipper vs Marlin
