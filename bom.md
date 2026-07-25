@@ -9,10 +9,10 @@
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
 | :--- | :---: | :---: | :--- |
 | **2020 Aluminum Extrusions (400mm)** | 4 | **$0.00** | Already Owned |
-| **2020 Aluminum Extrusions (400mm, 8-Pack)** | 1 Pack | **$29.00** | [Amazon Link]((https://www.amazon.com/Seekliny-Aluminum-Extrusion-V-Slotted-Accessories/dp/B0DY7HXV9C/ref=sr_1_4?dib=eyJ2IjoiMSJ9.dGNXeBpdZVIPN1u_j5lFPKVYHVBHN2BcxHiTPpEPUCDQDFjkPX8EOm0r19J3-MhhnUWCDdl-nTawvlKAZGucoPaBuf2tXWyJYaox4LKIEsxchV1DuCjw2sNx5mvfemugc7lJK7EVY9D4YFJnSi-t91iI4jk2c7bEtlBzvU3lCoZQbYV_3RMKWcopED778cFhPt3gCyr9z1yQHyJylizjU2qnvJogq0ae5CjJP50PLZk.g7vYE2bwK4VZD5VRfBF1VVr22bmc3cuakELopA66ZPg&dib_tag=se&keywords=2020%2Bextrusion%2B400mm%2B8pack&qid=1785001493&sr=8-4&th=1)) *(5 used for frame, 3 spare stock)* |
+| **2020 Aluminum Extrusions (400mm, 8-Pack)** | 1 Pack | **$29.00** | [Amazon Link](https://www.amazon.com/dp/B0DY7HXV9C) *(5 used for frame, 3 spare stock)* |
 | **2040 Aluminum Extrusions (400mm)** | 4 | **$0.00** | Already Owned |
-| **2040 Aluminum Extrusions (400mm, 4-Pack)** | 1 Pack | **$38.00** | [Amazon Link](PASTE_LINK_HERE) *(4 needed for main frame)* |
-| **Bed Support Extrusions (2020 / Aluminum Profiles)** | 1 Set | **$20.00** | [Amazon Link](PASTE_LINK_HERE) |
+| **2040 Aluminum Extrusions (400mm, 4-Pack)** | 1 Pack | **$24.00** | [Amazon Link](https://www.amazon.com/dp/B09LQJ3PJ5) *(4 needed for main frame)* |
+| **Bed Support Extrusions (2020 / Aluminum Profiles)** | 1 Set | **$0.00** | Already Owned|
 | **M3 / M4 / M5 Fasteners & T-Nut Assortments** | 1 Kit | **$0.00** | Already Owned |
 | **Heat-Set Threaded Inserts (M3 Assortment)** | 1 Pack | **$0.00** | Already Owned |
 
@@ -22,13 +22,14 @@
 
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
 | :--- | :---: | :---: | :--- |
-| **MGN12H Linear Guide Rails with Blocks (300mm)** | 3 | **$0.00** | Already Owned |
-| **MGN9H Linear Guide Rails with Blocks (300mm)** | 3 | **$30.00** | [Amazon Link](PASTE_LINK_HERE) |
+| **MGN12H Linear Guide Rails with Blocks (400mm)** | 3 | **$0.00** | Already Owned |
+| **MGN9H Linear Guide Rails with Blocks (300mm)** | 3 | **$21.00** | [Amazon Link](https://www.amazon.com/dp/B0BXWQHW7G) |
 | **GT2 Timing Belt, 20T Pulleys & Toothless Idlers** | 1 Kit | **$0.00** | Already Owned |
-| **T8 Lead Screws with Anti-Backlash Nuts (300mm)** | 3 | **$18.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **Flexible Shaft Couplers (5mm to 8mm)** | 3 | **$8.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **Precision Ball Bearings** | 1 Set | **$15.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **Neodymium Magnets Kit** | 1 Set | **$15.00** | [Amazon Link](PASTE_LINK_HERE) |
+| **T8 Lead Screws with Anti-Backlash Nuts (300mm, 2-Pack)** | 2 Packs | **$30.00** | [Amazon Link](https://www.amazon.com/dp/B0GZZ4R4X5) *(3 used for Triple-Z, 1 spare)* |
+| **Flexible Shaft Couplers 5mm to 8mm (2-Pack)** | 2 Packs | **$24.00** | [Amazon Link](https://www.amazon.com/dp/B0GS2YKMP3) *(3 used for Triple-Z, 1 spare)* |
+| **PATIKIL M4 x 10mm Stainless Steel Ball Nuts (3-Pack)** | 1 Pack | **$7.00** | [Amazon Link](https://www.amazon.com/dp/B0FBS22YBM) *(Used for Kinematic Bed Mounts)* |
+| **N52 Countersunk Ring Magnets 12x3mm (40-Pack)** | 1 Pack | **$23.39** | [Amazon Link](https://www.amazon.com/dp/B0GF1X7XL2) *(Kinematic Mounts / Toolhead Docking)* |
+| **GE5C Spherical Bearings 5x14x6mm (4-Pack)** | 1 Pack | **$9.00** | [Amazon Link](https://www.amazon.com/dp/B0CRNQYDFN) *(3 used for Kinematic Bed, 1 spare)* |
 
 
 ---
@@ -37,9 +38,7 @@
 
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
 | :--- | :---: | :---: | :--- |
-| **Precision Cast Aluminum Bed Plate + PEI Spring Sheet** | 1 | **$40.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **Silicone Bed Heater Pad (24V / AC) + SSR Relay** | 1 | **$30.00** | [Amazon Link](PASTE_LINK_HERE) |
-| **Bed Leveling Springs / Silicone Column Mounts** | 1 Set | **$10.00** | [Amazon Link](PASTE_LINK_HERE) |
+| **Voron Build plate kit** | 1 | **$140.00** | [Digital machinery](P[ASTE_LINK_HERE](https://www.digmach.com/products/build-plate-kit-for-voron-2?variant=37614411808950)) |
 
 ---
 
