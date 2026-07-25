@@ -48,8 +48,8 @@
 | :--- | :---: | :---: | :--- |
 | **BigTreeTech Octopus Pro v1.1 + TMC Drivers** | 1 | **$0.00** | Already Owned |
 | **NEMA 17 Stepper Motors (AWD CoreXY + Triple Z)** | 6 | **$0.00** | Already Owned |
-| **Raspberry Pi 4 Model B (Host Controller)** | 1 | **$55.00** | [CanaKit / Retail Link](PASTE_LINK_HERE) |
-| **Mean Well LRS-350-24 Power Supply (24V 14.6A)** | 1 | **$32.00** | [Amazon Link](PASTE_LINK_HERE) |
+| **BigTreeTech CB1 / BTT Pi v1.2 Klipper Host Board** | 1 | **$28.99** | [BTT Product Link](https://www.biqu.equipment/products/bigtreetech-cb1) *(Dedicated Klipper Host Controller)* |
+| **Mean Well LRS-350-24 Power Supply (24V 14.6A)** | 1 | **$32.00** | [Amazon Link]([PASTE_LINK_HERE](https://www.amazon.com/LRS-350-24-Switching-Provided-KAINSC-Products/dp/B09K5MS2FB/ref=sr_1_2_sspa?crid=3EXYXJS9VJE1I&dib=eyJ2IjoiMSJ9.vpZwmjb4m5KMNcsg2Kb7wlRQ_FWoQRC070XTSQF4p_fJxj3ehUXYR6kGadOerjJDuYAgYlU64U4DlOHnLQYyl169Pur0V2N8FOTTFM71tlqYCtk41nStGJOIeRCKktr3aFlgp_CMyb8cwlj9hAXPq7ESZUkr35emNOOQ-u1yeFBTEPG49A1EwzzZnvyBVo-V3Q_JyZHvIbj23Mau1UT7yjRIK_puxfHoOIy5C7a-pzk.OKWzy8LBrgXxSTS92tZf1ol2hG79kv1VCCurTuHTm-Q&dib_tag=se&keywords=Mean+Well+LRS-350-24+Power+Supply+%2824V+14.6A%29&qid=1785003964&sprefix=mean+well+lrs-350-24+power+supply+24v+14.6a+%2Caps%2C223&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)) |
 
 ---
 
