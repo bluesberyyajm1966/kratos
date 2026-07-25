@@ -9,7 +9,7 @@
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
 | :--- | :---: | :---: | :--- |
 | **2020 Aluminum Extrusions (400mm)** | 4 | **$0.00** | Already Owned |
-| **2020 Aluminum Extrusions (400mm, 8-Pack)** | 1 Pack | **$29.00** | [Amazon Link]([PASTE_LINK_HERE](https://www.amazon.com/Seekliny-Aluminum-Extrusion-V-Slotted-Accessories/dp/B0DY7HXV9C/ref=sr_1_4?dib=eyJ2IjoiMSJ9.dGNXeBpdZVIPN1u_j5lFPKVYHVBHN2BcxHiTPpEPUCDQDFjkPX8EOm0r19J3-MhhnUWCDdl-nTawvlKAZGucoPaBuf2tXWyJYaox4LKIEsxchV1DuCjw2sNx5mvfemugc7lJK7EVY9D4YFJnSi-t91iI4jk2c7bEtlBzvU3lCoZQbYV_3RMKWcopED778cFhPt3gCyr9z1yQHyJylizjU2qnvJogq0ae5CjJP50PLZk.g7vYE2bwK4VZD5VRfBF1VVr22bmc3cuakELopA66ZPg&dib_tag=se&keywords=2020%2Bextrusion%2B400mm%2B8pack&qid=1785001493&sr=8-4&th=1)) *(5 used for frame, 3 spare stock)* |
+| **2020 Aluminum Extrusions (400mm, 8-Pack)** | 1 Pack | **$29.00** | [Amazon Link]((https://www.amazon.com/Seekliny-Aluminum-Extrusion-V-Slotted-Accessories/dp/B0DY7HXV9C/ref=sr_1_4?dib=eyJ2IjoiMSJ9.dGNXeBpdZVIPN1u_j5lFPKVYHVBHN2BcxHiTPpEPUCDQDFjkPX8EOm0r19J3-MhhnUWCDdl-nTawvlKAZGucoPaBuf2tXWyJYaox4LKIEsxchV1DuCjw2sNx5mvfemugc7lJK7EVY9D4YFJnSi-t91iI4jk2c7bEtlBzvU3lCoZQbYV_3RMKWcopED778cFhPt3gCyr9z1yQHyJylizjU2qnvJogq0ae5CjJP50PLZk.g7vYE2bwK4VZD5VRfBF1VVr22bmc3cuakELopA66ZPg&dib_tag=se&keywords=2020%2Bextrusion%2B400mm%2B8pack&qid=1785001493&sr=8-4&th=1)) *(5 used for frame, 3 spare stock)* |
 | **2040 Aluminum Extrusions (400mm)** | 4 | **$0.00** | Already Owned |
 | **2040 Aluminum Extrusions (400mm, 4-Pack)** | 1 Pack | **$38.00** | [Amazon Link](PASTE_LINK_HERE) *(4 needed for main frame)* |
 | **Bed Support Extrusions (2020 / Aluminum Profiles)** | 1 Set | **$20.00** | [Amazon Link](PASTE_LINK_HERE) |
