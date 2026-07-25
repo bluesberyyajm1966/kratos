@@ -21,9 +21,6 @@ I am going to talk about my dfirst ideas for the frame in the archive and then w
 | :---: | :---: |
 | <img src="pictures/Old%20corner%20mount.jpg" width="250" /> | <img src="pictures/New%20corner%20mount.jpg" width="250" /> |
 
-*Figure 3.2: Comparison between the original internal motor design with complex belt routing (left) and the updated outer-mount design (right).*
-*Figure 3.2: Comparison between the original internal motor design with complex belt routing (left) and the updated outer-mount design (right).*
-*Figure 3.2: Comparison between the original internal motor design with complex belt routing (top) and the updated outer-mount design (bottom).*
 ## Section 4 Kinematic bed/Triple Z axis system
 
 ## Section 5 Software Klipper vs Marlin
