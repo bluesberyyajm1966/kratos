@@ -14,7 +14,7 @@ My first 3d printer similar to many in the 3d printing community was an ender 3.
 </p>
 
 ## Section 3 XY gantry
-I am going to talk about my dfirst ideas for the frame in the archive and then why i decided to scrap that and do a reset and restart my corner mounts and all the other big mounting decisions i made
+* **Designing corner pieces:**
 * **Motor Placement:** My first instinct regarding the motor placement was to place it on the inside of the of the extrusions, this can be seen in side my archive Kratos build. This was my first big mistake, as this made me spent many weeks frustrated on how to do the belt routing. But I was way overcomplicating it, because having the motor on the inside of the corner made the printer not be aligned with the linear rails which is crucial for belt tensioning, as if it isnt perfect straight when the y axis moves it would change the tension of the belt. After many hours spent trying to figure out the belt routing I went back to look at other coreXY designs to see waht they did, and to get inspiration from it. After just minutes of googling I realized I had to scrap everything I had just spent so much time fixing. I had built my corner pieces around the motor on the inside of the build and after looking at other printers such as the voron trident, I saw they placed motor along side the outer edges of the frame allowing it to be perfectly aligned with the linear rail and with the next corner it had to go to. This meant simplyifying my design that at one point had four idlers at each corner down to only two at two of the corners.
   
 | Original Design (Internal Motor) | Redesigned Mount (Outer Motor) |
