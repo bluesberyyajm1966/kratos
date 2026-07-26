@@ -30,7 +30,7 @@
 | **PATIKIL M4 x 10mm Stainless Steel Ball Nuts (3-Pack)** | 1 Pack | **$7.00** | [Amazon Link](https://www.amazon.com/dp/B0FBS22YBM) *(Used for Kinematic Bed Mounts)* |
 | **N52 Countersunk Ring Magnets 12x3mm (40-Pack)** | 1 Pack | **$23.00** | [Amazon Link](https://www.amazon.com/dp/B0GF1X7XL2) *(Kinematic Mounts / Toolhead Docking)* |
 | **GE5C Spherical Bearings 5x14x6mm (4-Pack)** | 1 Pack | **$9.00** | [Amazon Link](https://www.amazon.com/dp/B0CRNQYDFN) *(3 used for Kinematic Bed, 1 spare)* |
-| **SUBTOTAL KINEMATICS:** | | **$114.00** | |
+| **SUBTOTAL KINEMATICS:** | | **$156.00** | |
 
 ---
 
