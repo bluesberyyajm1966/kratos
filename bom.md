@@ -39,7 +39,7 @@
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
 | :--- | :---: | :---: | :--- |
 | **BigTreeTech Octopus Pro v1.1 + TMC Drivers** | 1 | **$0.00** | Already Owned |
-| **NEMA 17 Stepper Motors (AWD CoreXY + Triple Z)** | 6 | **$0.00** | Already Owned |
+| **NEMA 17 Stepper Motors (CoreXY + Triple Z)** | 6 | **$0.00** | Already Owned |
 | **BIGTREETECH CB1 V2.2 + Pi4B Adapter Board Kit** | 1 | **$40.00** | [Amazon Link](https://www.amazon.com/dp/B0BLN8VCVN) *(Klipper Host Controller)* |
 | **Mean Well LRS-350-24 Power Supply (24V 14.6A)** | 1 | **$32.00** | [Amazon Link](https://www.amazon.com/dp/B09K5MS2FB) |
 | **SUBTOTAL POWER & HOST:** | | **$72.00** | |
