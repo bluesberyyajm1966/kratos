@@ -27,12 +27,10 @@ My first 3d printer similar to many in the 3d printing community was an ender 3.
 
 ## Section 6: Component Decisions
 ### Toolhead Choice
-[Write about why you picked Stealthburner, the Bambu hotend, and printing the body...]
 
 ### Why I chose a voron bed kit
 
 ### Power & Electronics
-[Write about the Octopus Pro board, BTT CB1, and the AC bed wiring...]
 
 ## Calibration and Setup
 
