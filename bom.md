@@ -81,6 +81,5 @@
 | **4. Power & Host Controller** | **$72.00** |
 | **5. Toolhead Assembly** | **$81.00** |
 | **TOTAL REMAINING HARDWARE NEEDED:** | **$557.00** |
-| **REQUESTED HACK CLUB GRANT AMOUNT:** | **$350.00** *(Maximum Cap)* |
-| **PERSONAL CO-FUNDING CONTRIBUTION:** | **$207.00** *(Out of Pocket)* |
+
 
