@@ -1,6 +1,5 @@
 # Kratos CoreXY - Bill of Materials (BOM)
 
-> **Project Note:** This itemized budget outlines the remaining mechanical hardware, motion components, bed assembly, and host electronics required to complete the Kratos CoreXY printer. Parts already in hand have been marked as **$0.00 (Already Owned)** to maximize the efficiency of requested grant funding.
 
 ---
 
@@ -85,4 +84,3 @@
 | **REQUESTED HACK CLUB GRANT AMOUNT:** | **$350.00** *(Maximum Cap)* |
 | **PERSONAL CO-FUNDING CONTRIBUTION:** | **$207.00** *(Out of Pocket)* |
 
-> **Note on Existing Hardware Savings:** The total project budget reflects a massive cost savings of **~$350+** by utilizing self-provided inventory including a BigTreeTech Octopus Pro v1.1 mainboard, TMC drivers, 6x NEMA 17 motors, 3x MGN12H linear rails, full timing belt/pulley kits, fastener assortments, heat-set inserts, 8x frame extrusions, and JST wiring kits.
