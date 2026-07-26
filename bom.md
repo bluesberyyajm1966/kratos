@@ -34,18 +34,6 @@
 
 ---
 
-### 3. Heated Bed System (Voron 120V AC Spec)
-
-| Item Description | Qty Needed | Grant Cost | Status / Source Link |
-| :--- | :---: | :---: | :--- |
-| **LDO Voron 300mm Cast Aluminum Build Plate Kit** *(305x305mm Cast Plate, 120V Keenovo Heater & Magnet)* | 1 | **$170.00** | [DigMach Product Link](https://www.digmach.com/products/voron-2-4-build-plate-kit) |
-| **305x305mm Dual-Sided PEI Spring Steel Flex Plate** | 1 | **$26.00** | [Phaetus Product Link](https://www.phaetus.com/products/conweb-build-plate) |
-| **Omron G3NA-210B 10A / 240VAC Solid State Relay (SSR)** | 1 | **$39.00** | [KB-3D Product Link](https://kb-3d.com/store/omron/171-omron-solid-state-relay-g3na-210b-utu-ssr-4536854807954.html) |
-| **125°C Ceramic Bed Thermal Fuse (15A 250V Safety Cutoff)** | 1 | **$2.00** | [KB-3D Product Link](https://kb-3d.com/store/heated-bed-electronics/206-thermal-fuse-125c-trip-temperature-ceramic-1634486072757.html) |
-| **SUBTOTAL HEATED BED:** | | **$237.00** | |
-
----
-
 ### 4. Electronics, Power & Host Hardware
 
 | Item Description | Qty Needed | Grant Cost | Status / Source Link |
